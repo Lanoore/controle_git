@@ -26,3 +26,5 @@ Londres
 Bratislava
 Ljubljana
 Stockholm
+
+Berne
